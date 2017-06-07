@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Seek">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Seek" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Seek" />
+    </SOURCES>
+  </library>
+</component>
